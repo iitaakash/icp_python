@@ -5,7 +5,7 @@ An implementation of Iterative Closest Point Algorithm in Python based on *Besl,
 ## Usage
 The code can be run as follows:
 ```
-git clone ..
+git clone https://github.com/iitaakash/icp_python.git
 pip3 install -r requirements.txt
 python3 main.py 
 ```
